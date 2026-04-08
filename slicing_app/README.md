@@ -1,3 +1,4 @@
+<img width="1273" height="887" alt="image" src="https://github.com/user-attachments/assets/31ae465a-aa2a-44fd-8dcd-fc2da218c4ef" />
 # slicing_app
 
 A new Flutter project.
