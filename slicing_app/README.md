@@ -1,4 +1,12 @@
+INI SCREENSHOT NYA
 <img width="1273" height="887" alt="image" src="https://github.com/user-attachments/assets/31ae465a-aa2a-44fd-8dcd-fc2da218c4ef" />
+
+Resource Card (RAM & SSD):
+
+Health Status (Grid Sistem):
+Di bagian bawah terdapat dua kotak kecil yang diletakkan berdampingan menggunakan Row dan Expanded. menampilkan info cepat seperti suhu (Temp) dan status kesehatan sistem (Excellent) dengan warna hijau/biru
+
+
 # slicing_app
 
 A new Flutter project.
